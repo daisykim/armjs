@@ -1,4 +1,4 @@
-armjs
+ARM.JS
 =====
 
-ARM.JS
+copyright(c) armjs.org
